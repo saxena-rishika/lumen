@@ -1,0 +1,17 @@
+{
+  "name": "Lumen — Your Inner World",
+  "short_name": "Lumen",
+  "description": "A private emotional scrapbook that learns what brings you back to yourself.",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#faf7f2",
+  "theme_color": "#f6f0e7",
+  "categories": ["lifestyle", "health"],
+  "icons": [
+    {"src":"icons/icon-192.svg","sizes":"192x192","type":"image/svg+xml","purpose":"any maskable"},
+    {"src":"icons/icon-512.svg","sizes":"512x512","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
