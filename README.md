@@ -2,7 +2,7 @@
 
 An installable, mobile-first emotional scrapbook and wellbeing PWA. It uses plain HTML, CSS, and JavaScript, so hosting requires no build step or paid service.
 
-**Live demo:** [Open Lumen](https://lumen-rishika.yuvrajv474.chatgpt.site)
+**Live demo:** [Open Lumen](https://saxena-rishika.github.io/lumen/)
 
 **Submission profile:** Rishika
 
